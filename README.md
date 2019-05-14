@@ -1,5 +1,5 @@
 # OpenWeather-API
-Simple Android project that uses [HackerNews API](https://github.com/HackerNews/API)
+Simple Android project that uses [OpenWeather API](https://openweathermap.org/current)
 
 ### Inspired by:
 * Kotlin
