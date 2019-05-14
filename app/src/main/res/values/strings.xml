@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="app_msg_close">Press Back button again to exit</string>
+    <string name="app_msg_test">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</string>
+
+    <string name="button_retry">Try Again</string>
+    <string name="text_loading">Load data</string>
+
+    <string name="error_title">Oops, Something went wrong</string>
+    <string name="error_msg">Check your connection and try again</string>
+
+    <!--Home-->
+    <string name="home_title">Home</string>
+</resources>
